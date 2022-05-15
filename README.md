@@ -1,1 +1,1 @@
-# Gesture-Recognition
+# Gesture-Recognition using Dynamic Time Warping
